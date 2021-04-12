@@ -1,1 +1,1 @@
-web: gunicorn myloginapp2.wsgi --log-file -
+web: gunicorn newdjango_pro.wsgi --log-file -
